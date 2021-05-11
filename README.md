@@ -21,4 +21,26 @@ Code tested on following environments, other version should also work:
 * keras 2.4.3
 
 # For students from SJTU
+
 Please read [HEAR](EE369.md).
+
+
+
+# **Results**
+
+- Q1：
+
+- Q2:
+
+- Q3:
+
+- Q4:
+
+- Q5:
+
+- Q6: 
+
+  Training accuracy: [0.14851667, 0.32891667, 0.48035, 0.56458336, 0.6569667, 0.79436666, 0.85078335, 0.87443334, 0.8862333, 0.8949]
+
+  Testing accuracy: 90.23%
+
