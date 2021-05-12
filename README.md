@@ -29,18 +29,27 @@ Please read [HEAR](EE369.md).
 # **Results**
 
 - Q1：
+  Training accuracy: 98.08%
+  Testing accuracy: 89.20%
 
 - Q2:
+  Training accuracy: 81.97%
+  Testing accuracy: 82.10%
 
 - Q3:
+  Training accuracy: 99.37%
+  Testing accuracy: 84.10%
 
 - Q4:
+  Training accuracy: 98.87%
+  Testing accuracy: 84.80%
 
 - Q5:
 
 - Q6: 
 
-  Training accuracy: [0.14851667, 0.32891667, 0.48035, 0.56458336, 0.6569667, 0.79436666, 0.85078335, 0.87443334, 0.8862333, 0.8949]
+  Training accuracy: 
+  [0.14851667, 0.32891667, 0.48035, 0.56458336, 0.6569667, 0.79436666, 0.85078335, 0.87443334, 0.8862333, 0.8949]
 
   Testing accuracy: 90.23%
 
